@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-My name is Mateusz and I'm a Python Software Engineer, with an electronics background.
+My name is Mateusz, and I’m a Python Software Engineer with a background in electronics.
 
-🔭 As a Software Engineer at ZF Group, I'm working on applications for automated cybersecurity tests.
+🔭 As a Software Engineer at ZF Group, I work on applications for automated cybersecurity testing.
 
-🌱 I enjoy processing data, analyzing it, and drawing conclusions from it.
+🌱 I enjoy processing data, analyzing it, and drawing insights from it.
 
-☕ Besides programming, I enjoy gym, swimming and reading books in my free time.
+☕ In my free time, I like going to the gym, swimming, and reading books.
 
 ## 💻 Technologies 
 
@@ -22,10 +22,8 @@ My name is Mateusz and I'm a Python Software Engineer, with an electronics backg
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-## 📜 I'm currently learning
-
-AI/ML foundations + Python frameworks
-
+## ➡️ Check my other projects
+🌐 Visit [reelminder](https://reelminder.byst.re/).
 
 ----
 
